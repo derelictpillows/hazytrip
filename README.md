@@ -69,6 +69,6 @@ you can support this program if you care enough by just opening an issue or pull
  */
 ```
 
-please see [LICENSE](https://raw.githubusercontent.com/derelictpillows/hazytrip/care/README.md) for the license
+please see [LICENSE](https://raw.githubusercontent.com/derelictpillows/hazytrip/care/LICENSE) for the license
 
 <sub>keywords: tripcode, bruteforcer, searcher, cracker, finder, explorer, generator, imageboard, textboard, 双葉ちゃん, futaba, 2ch, 2chan, yotsuba, 4ch, 4chan</sub>
