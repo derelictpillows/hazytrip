@@ -62,13 +62,6 @@ you can delete the hazytrip folder afterwards if you do this
 you can support this program if you care enough by just opening an issue or pull request if you find any bugs. that's all
 
 ### copyright and license
-```
-/*
- * hazytrip - tripcode bruteforcer for Futaba-type imageboards
- * copyright (c) 2020 derelictpillows
- */
-```
-
-please see [LICENSE](https://raw.githubusercontent.com/derelictpillows/hazytrip/care/LICENSE) for the license
+this project is public domain. no copyright attached.
 
 <sub>keywords: tripcode, bruteforcer, searcher, cracker, finder, explorer, generator, imageboard, textboard, 双葉ちゃん, futaba, 2ch, 2chan, yotsuba, 4ch, 4chan</sub>
